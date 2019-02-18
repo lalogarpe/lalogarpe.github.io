@@ -1,0 +1,32 @@
+
+html {
+	background-image: url("ron-mcclenny-1349546-unsplash.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+     }
+
+body{
+	font-style: italic;
+	font-size: 25px;
+    }
+
+h1  {
+	font-size: 2em;
+    text-align: left;
+    }
+
+h3  {
+	font-style: initial;
+    text-align: justify;
+    }
+    
+
+img { 
+	margin: 10px;
+    transition: all 1s;
+    }
+
+ img:hover{transform: rotate(10deg);
+          }
+
+ 
